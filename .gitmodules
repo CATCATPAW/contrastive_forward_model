@@ -1,0 +1,3 @@
+[submodule "contrastive-forward-model"]
+	path = contrastive-forward-model
+	url = https://github.com/wilson1yan/contrastive-forward-model.git
